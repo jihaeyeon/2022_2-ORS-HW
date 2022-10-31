@@ -1,1 +1,1 @@
-# 2022_2 ORS(Optical Remote Sensing) WIKI!
+# 2022_2 ORS(Optical Remote Sensing)
